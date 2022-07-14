@@ -1,0 +1,8 @@
+# main links
+main:
+  # - title: "Home Test"
+  #   url: /_pages/home/
+  - title: "Posts"
+    url: /_pages/posts/
+  - title: "Portfolio"
+    url: /_pages/portfolio/
