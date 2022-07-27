@@ -10,8 +10,8 @@ header:
   overlay_image: /assets/img/splash0.jpg
 ---
 
-![Ghaaliya Map](\DrunkardsNDimwits\assets\img\Ghaaliya.png)
+[![Ghaaliya Map](\DrunkardsNDimwits\assets\img\Ghaaliya_crop.png)](\DrunkardsNDimwits\assets\img\Ghaaliya_crop.png)
 
 # Note Found in the Spider Cave
 
-![Found Note](\DrunkardsNDimwits\assets\img\Note_1.png)
+[![Found Note](\DrunkardsNDimwits\assets\img\Note_1.png)](\DrunkardsNDimwits\assets\img\Note_1.png)
