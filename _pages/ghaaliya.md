@@ -10,8 +10,15 @@ header:
   overlay_image: /assets/img/splash0.jpg
 ---
 
-[![Ghaaliya Map](\DrunkardsNDimwits\assets\img\Ghaaliya_crop.png)](\DrunkardsNDimwits\assets\img\Ghaaliya_crop.png)
+[![Ghaaliya Map](\DrunkardsNDimwits\assets\img\Ghaaliya.png)](\DrunkardsNDimwits\assets\img\Ghaaliya_crop.png)
+
+# Kai's Drawing
+
+[![Kai's Drawing](\DrunkardsNDimwits\assets\img\Kai_Drawing.png)](\DrunkardsNDimwits\assets\img\Kai_Drawing.png)
+# Note found on the Road
+
+[![Found Note](\DrunkardsNDimwits\assets\img\Note_Road.png)](\DrunkardsNDimwits\assets\img\Note_Road.png)
 
 # Note Found in the Spider Cave
 
-[![Found Note](\DrunkardsNDimwits\assets\img\Note_1.png)](\DrunkardsNDimwits\assets\img\Note_1.png)
+[![Found Note](\DrunkardsNDimwits\assets\img\Note_Cave.png)](\DrunkardsNDimwits\assets\img\Note_Cave.png)
