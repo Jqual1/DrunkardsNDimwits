@@ -10,7 +10,7 @@ header:
   overlay_image: /assets/img/splash0.jpg
 ---
 
-[![Ghaaliya Map](\DrunkardsNDimwits\assets\img\Ghaaliya.png)](\DrunkardsNDimwits\assets\img\Ghaaliya_crop.png)
+[![Ghaaliya Map](\DrunkardsNDimwits\assets\img\Ghaaliya.png)](\DrunkardsNDimwits\assets\img\Ghaaliya.png)
 
 # Kai's Drawing
 
