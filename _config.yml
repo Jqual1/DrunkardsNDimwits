@@ -108,7 +108,9 @@ author:
   location         : #""
   email            : #"Jonathonq02@gmail.com"
   links:
-
+    - label: "Listen Now!"
+      icon: "fab fa-fw fa-podcast"
+      url: "https://anchor.fm/drunkards-n-dimwits"
 # Site Footer
 # GitHub, LinkedIn, Discord, Steam, itch.io, Twitter, Facebook, Insta
 footer:
