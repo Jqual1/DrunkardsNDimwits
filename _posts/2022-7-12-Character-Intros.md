@@ -21,14 +21,10 @@ characters:
     alt: "placeholder image 1"
     title: "Solaire Courland"
     excerpt: "Once a soldier and now a vagabond, Solaire is used to living a rough and tough life. He's had a troubled past and plans to redeem his mistakes or die trying."
-  - image_path:
+  - image_path: assets/img/players/missing.png
     alt: "placeholder image 1"
     title: "Gerry"
-    excerpt: ""
-  - image_path: 
-    alt: "placeholder image 1"
-    title: "Eden"
-    excerpt: ""
+    excerpt: "A friend to Bartholomaeus, not much is currently known about Gerry..."
 ---
 
 
