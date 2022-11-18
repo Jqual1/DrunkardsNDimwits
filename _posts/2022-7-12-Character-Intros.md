@@ -21,12 +21,11 @@ characters:
     alt: "placeholder image 1"
     title: "Solaire Courland"
     excerpt: "Once a soldier and now a vagabond, Solaire is used to living a rough and tough life. He's had a troubled past and plans to redeem his mistakes or die trying."
-  - image_path: assets/img/players/missing.png
+  - image_path: assets/img/players/Gerry.png
     alt: "placeholder image 1"
     title: "Gerry"
-    excerpt: "A friend to Bartholomaeus, not much is currently known about Gerry..."
+    excerpt: "Raised as an indifferent historian in the Monastery, Gerry was given a spiritual assignment as a young teenager that led him to a unique understanding of uncommon cultures." 
 ---
 
 
 {% include feature_row id="characters" %}
-
