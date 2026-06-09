@@ -2,7 +2,7 @@
 title: Carly (Bartholomeaus)
 layout: splash
 classes: landing
-permalink: /_pages/carly/
+permalink: /_players/carly/
 read_time: false
 ---
 ![assets/img/players/BartMoss.png]
