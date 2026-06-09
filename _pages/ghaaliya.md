@@ -2,7 +2,7 @@
 title: Map of Ghaaliya
 layout: splash
 classes: landing
-permalink: /Ghaaliya_world/
+permalink: /_pages/Ghaaliya_world/
 read_time: false
 header:
   overlay_color: "#f0c674"

@@ -2,7 +2,7 @@
 title: Jos (Terra)
 layout: splash
 classes: landing
-permalink: /_players/jos/
+permalink: /_pages/jos/
 read_time: false
 ---
 ![assets/img/players/Terra.png]

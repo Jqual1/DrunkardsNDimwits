@@ -1,8 +1,8 @@
 ---
-title: Carly (Bartholomeaus)
+title: Carly (Bartholomaeus)
 layout: splash
 classes: landing
-permalink: /_players/carly/
+permalink: /_pages/carly/
 read_time: false
 ---
 ![assets/img/players/BartMoss.png]
@@ -11,7 +11,7 @@ After having his memory wiped, he was assigned to a small halfling family to be 
 ## Fun facts (Possible Spoilers!)
 
 - Bart doesn't grow hair, but his wood does get mossy. It CAN grow anywhere, but he can oil himself to prevent this. For long periods without care, he starts to grow moss, everywhere (Session 3)
-- Bartholomeaus has a great memory, but purposefully gets names wrong
+- Bartholomaeus has a great memory, but purposefully gets names wrong
 - Doesn't enjoy fighting, he enjoys the sport but not fighting living thing
 - Bart is afraid that we won't be able to repair his joints
 - Bartholomaeus needs to keep his wood moist so he uses his big toe on his right foot to absorb all the water he need

@@ -2,7 +2,7 @@
 title: Brendan (Solaire)
 layout: splash
 classes: landing
-permalink: /_players/brendan/
+permalink: /_pages/brendan/
 read_time: false
 ---
 ![assets/img/players/Solaire.png]

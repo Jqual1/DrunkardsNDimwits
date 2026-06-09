@@ -2,7 +2,7 @@
 title: Robbie (Gerry)
 layout: splash
 classes: landing
-permalink: /_players/robbie/
+permalink: /_pages/robbie/
 read_time: false
 ---
 ![assets/img/players/Gerry.png]

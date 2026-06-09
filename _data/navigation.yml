@@ -2,5 +2,19 @@
 main:
   # - title: "Home Test"
   #   url: /_pages/home/
+  - title: "Players"
+    sublinks:
+      - title: "Jonathon (DM)"
+        url: /_pages/jonathon/
+      - title: "Jos (Terra)"
+        url: /_pages/jos/
+      - title: "Carly (Bartholomaeus)"
+        url: /_pages/carly/
+      - title: "Robbie (Gerry)"
+        url: /_pages/gerry/
+      - title: "Brendan (Solaire)"
+        url: /_pages/brendan/
+      - title: "Anthony (Kai)"
+        url: /_pages/anthony/
   - title: "Map"
     url: /_pages/Ghaaliya_world/

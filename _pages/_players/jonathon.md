@@ -2,7 +2,7 @@
 title: Jonathon (DM)
 layout: splash
 classes: landing
-permalink: /_players/jonathon/
+permalink: /_pages/jonathon/
 read_time: false
 ---
 
