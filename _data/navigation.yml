@@ -3,7 +3,7 @@ main:
   # - title: "Home Test"
   #   url: /_pages/home/
   - title: "Players"
-    sublinks:
+    children:
       - title: "Jonathon (DM)"
         url: /_pages/jonathon/
       - title: "Jos (Terra)"
