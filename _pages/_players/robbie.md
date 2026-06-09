@@ -1,9 +1,8 @@
 ---
 title: Robbie (Gerry)
-layout: splash
-classes: landing
+layout: single
+classes: wide
 permalink: /_pages/robbie/
-read_time: false
 ---
 ![assets/img/players/Gerry.png]
 Raised as an indifferent historian in the Monastery, Gerry was given a spiritual assignment as a young teenager that led him to a unique understanding of uncommon cultures.

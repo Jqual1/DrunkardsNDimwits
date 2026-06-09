@@ -1,9 +1,8 @@
 ---
 title: Brendan (Solaire)
-layout: splash
-classes: landing
+layout: single
+classes: wide
 permalink: /_pages/brendan/
-read_time: false
 ---
 ![assets/img/players/Solaire.png]
 

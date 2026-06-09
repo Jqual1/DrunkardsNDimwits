@@ -1,9 +1,8 @@
 ---
 title: Jos (Terra)
-layout: splash
-classes: landing
+layout: single
+classes: wide
 permalink: /_pages/jos/
-read_time: false
 ---
 ![assets/img/players/Terra.png]
 An Elvin cleric pledged to the peaceful goddess Eldath. She spends her life trying to give back while putting the high in high elf. She is starting to shows signs of her age, which isn't a common sight considering her elvish ancestry.
