@@ -4,6 +4,6 @@ layout: single
 classes: wide
 permalink: /_pages/brendan/
 ---
-![assets/img/players/Solaire.png]
+![Solaire](/DrunkardsNDimwits/assets/img/players/Solaire.png)
 
 ## Fun facts (Possible Spoilers!)

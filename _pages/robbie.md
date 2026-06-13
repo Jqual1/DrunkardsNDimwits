@@ -4,7 +4,7 @@ layout: single
 classes: wide
 permalink: /_pages/robbie/
 ---
-![Gerry](/assets/img/players/Gerry.png)
+![Gerry](/DrunkardsNDimwits/assets/img/players/Gerry.png)
 Raised as an indifferent historian in the Monastery, Gerry was given a spiritual assignment as a young teenager that led him to a unique understanding of uncommon cultures.
 
 ## Fun facts (Possible Spoilers!)
