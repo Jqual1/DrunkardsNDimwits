@@ -4,7 +4,7 @@ layout: single
 classes: wide
 permalink: /_pages/carly/
 ---
-![MossyBart](/blog/assets/img/players/BartMoss.png)
+![MossyBart](/assets/img/players/BartMoss.png)
 After having his memory wiped, he was assigned to a small halfling family to be his host family. His host family was nice and helped rehabilitate him mentally and socially. After being rehabilitated, his foster family sent him to learn the way of the elements in a solitary monastery. It has been almost one year since he left home to be a monk and successfully been assimilated into the monkhood. His unknown past life haunts him, manifesting in flashes of bloodshed and war.
 
 ## Fun facts (Possible Spoilers!)
