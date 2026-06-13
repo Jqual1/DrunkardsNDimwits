@@ -4,7 +4,7 @@ layout: single
 classes: wide
 permalink: /_pages/jos/
 ---
-![assets/img/players/Terra.png]
+![Terra](assets/img/players/Terra.png)
 An Elvin cleric pledged to the peaceful goddess Eldath. She spends her life trying to give back while putting the high in high elf. She is starting to shows signs of her age, which isn't a common sight considering her elvish ancestry.
 Terra has lived for the last 100 years in a small village, helping those around her. She was the town healer, both physically and spiritually. She lives in a small house on the edge of the village. She grows many plants, both to eat and to heal. She throws pottery as a hobby, and a clay pipe she carries with her was also thrown by her. Rumor is, she has a single cat that she talks to when no one is around.
 
